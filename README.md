@@ -1,2 +1,3 @@
-# R6P4
+# Projet détecteur incendie 
 Yanis Maurice/Florian Rouchier
+
