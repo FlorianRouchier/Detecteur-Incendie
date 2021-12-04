@@ -4,7 +4,9 @@ float res;
 
  
 void setup() 
+
 {
+
     Serial.begin(9600);
     
     pinMode(pin,INPUT);
