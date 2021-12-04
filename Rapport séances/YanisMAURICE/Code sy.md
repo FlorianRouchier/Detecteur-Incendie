@@ -15,7 +15,9 @@ void loop()
 
 }
 
-/*code trouvé sur internet devant afficher la concentration. Il affiche aussi une valeur constante*/
+/*code trouvé sur internet devant afficher la concentration. Il affiche aussi une valeur constante*/\n
+
+
 /*int pin = 8;
 unsigned long duration;
 unsigned long starttime;
