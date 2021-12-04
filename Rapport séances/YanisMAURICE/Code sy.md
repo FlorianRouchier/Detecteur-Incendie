@@ -1,16 +1,21 @@
 int pin = 8;
+
 float res;
 
  
 void setup() 
 {
     Serial.begin(9600);
+    
     pinMode(pin,INPUT);
 
 }
-void loop() 
+
+void loop()
+
 {
-    res=digitalRead(pin);
+    res=digitalRead(pin)
+    
     Serial.println(res);
 
 }
